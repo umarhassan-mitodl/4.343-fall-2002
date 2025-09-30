@@ -1,0 +1,11 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 1c8a8e41-94bf-9df5-bd3a-c64024802853
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 01f57fe9-53db-d5ea-5d24-33babe26118c
+  name: Projects
+  pageRef: /pages/projects
+  weight: 20
